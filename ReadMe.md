@@ -11,7 +11,7 @@ Jag tänker fortsätta med Python och hantering av min dictinairy.
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-#2020-03-23
+#2020-03-24
 ## Legobil:
 Idag ändrade jag lite i hemsida-koden i Visual studio Code för att det skulle vara mera "användarvänligt".
 
