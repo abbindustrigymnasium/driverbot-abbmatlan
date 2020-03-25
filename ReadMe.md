@@ -9,6 +9,7 @@ Jag fortsatte med min dictionairy och kan nu hämta siffror för partiernas max-
 ## Nästa lektion:
 Jag tänker fortsätta med Python och hantering av min dictinairy.
 
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 #2020-03-23
 ## Legobil:
