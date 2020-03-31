@@ -3,12 +3,13 @@
     <v-layout row>
       <v-flex class="justify-center mb-6">
         <div class v-if="connected==false">
-          <h1>Kontrolldon till mikrorobot!</h1>
-          <v-img class="img" src="https://media0.giphy.com/media/i3ZOHtBdUsNmE/source.gif" />
+             <v-card-text  class = "font-weight-bold display-3 justify-center" > Legobil Kontroller </v-card-text>
+          
+          <!-- <v-img class="img"  /> -->
         </div>
 
         <v-card v-else class="mx-auto" max-width="344" outlined>
-          <h1>Logger</h1>
+          <h1>Loggaren:</h1>
           <v-flex v-for="(item,index) in logging" :key="item+index">{{item}}</v-flex>
 
           <v-card-actions>
@@ -79,7 +80,13 @@ export default {
   width: 300px;
   height: 300px;
   border: black dotted 2px;
-
+ 
   word-wrap: break-word;
+}
+#headline {
+
+  width: 300px;
+  height: 300px;
+  border: black dotted 2px;
 }
 </style>

@@ -11,8 +11,8 @@ I App.vue binds alla komponenter ihop men även en dialogruta finns att klicka u
 I Buttons.vue finns en enklare styrmöjlighet för att skicka kommandon för fram, bak, vänster och höger till mqtt.
 MQTT topicen jag döpt min till heter drive, så antingen döper du din till samma eller så byter du bara namn i koden.
 Det finns fyra knappar för att reglera hastighet.
-### Buttonsv2.vue
-I Buttonsv2.vue finns en mer avancerad styrmöjlighet för att skicka kommandon för fram, bak, vänster och höger, snett upp  och snett ner till mqtt.
+### ButtonsMain.vue
+I ButtonsMain.vue finns en mer avancerad styrmöjlighet för att skicka kommandon för fram, bak, vänster och höger, snett upp  och snett ner till mqtt.
 MQTT topicen jag döpt min till heter drive, så antingen döper du din till samma eller så byter du bara namn i koden.
 Det finns fyra knappar för att reglera hastighet.
 
